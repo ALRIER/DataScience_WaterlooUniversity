@@ -26,7 +26,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 2,
       "metadata": {
         "id": "qaMH-0WUHQDn"
       },
@@ -86,7 +86,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 3,
       "metadata": {
         "id": "ebqVIqJ2HQDq"
       },
@@ -99,7 +99,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 4,
       "metadata": {
         "id": "vn2rl0LIHQDq"
       },
@@ -130,9 +130,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "be5iL8jm3z-q",
-        "outputId": "e21bf514-a839-4499-efc0-1acc28b70294"
+        "outputId": "c0679a57-a7b6-4e45-b544-d6a0c4a1fe7a"
       },
-      "execution_count": null,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "stream",
@@ -171,7 +171,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 6,
       "metadata": {
         "id": "2ajtVSpVHQDs"
       },
@@ -234,13 +234,13 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 7,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "sVVHfJPOHQDt",
-        "outputId": "21c0e90e-614b-4653-88bf-d54303ffb3bf"
+        "outputId": "2985202d-149e-401b-fbdf-fe575d3266d5"
       },
       "outputs": [
         {
@@ -305,7 +305,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 8,
       "metadata": {
         "id": "g6pY6zybHQDu"
       },
@@ -326,13 +326,13 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 9,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "P4iwt617HQDu",
-        "outputId": "f0e73616-00cf-4d8c-b1dc-efefd4a7a800"
+        "outputId": "0555c5de-4f33-439b-f576-aaa93f350b50"
       },
       "outputs": [
         {
@@ -396,13 +396,13 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "FT3vsiASHQDv",
-        "outputId": "2783a7d6-0c9f-430e-a8bd-8650f381a201"
+        "outputId": "6e7078cb-cc56-4c69-e51f-45878ef3fa55"
       },
       "outputs": [
         {
